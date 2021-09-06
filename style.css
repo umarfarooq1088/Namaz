@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(115, 202, 202);
+}
+
+.table,
+th,
+td {
+    border: 2px solid black;
+    margin-top: 10pc;
+    margin-left: 15pc;
+    width: 50pc;
+    background-color: rgb(149, 201, 157);
+}
+
+.card-img-top1 {
+    height: 11pc;
+    width: 15pc;
+    padding: 15px;
+    border-radius: 5px;
+    content: "timing";
+}
+
+.card-img-top2 {
+    height: 22pc;
+    width: 15pc;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.card-img-top3 {
+    height: 22pc;
+    width: 15pc;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.card {
+    height: 17pc;
+    width: 7pc;
+    margin-top: 7pc;
+    padding: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.card-body {
+    background-color: black;
+    border-radius: 8px;
+}
+
+.card-title a {
+    color: aliceblue !important;
+    text-decoration: none;
+    font-family: serif;
+}
+
+.card-group {
+    border: 2px;
+    border-radius: 5px;
+    width: 17pc;
+    height: 25pc;
+    /* margin-left: 5pc; */
+    padding: 15px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+/* 
+#one {
+    background: rgb(44, 44, 156);
+    font-size: 20px;
+    height: 13pc;
+    margin-left: 10pc;
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 13px;
+    margin-top: 12pc;
+    width: 103px;
+} */
